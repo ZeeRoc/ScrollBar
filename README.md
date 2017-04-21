@@ -23,5 +23,5 @@ JScroll
             mode: "auto",
             YBarHeight: 50
     };
-    var scroll = new JScrollBar(options);
+    var scroll = new ScrollBar(options);
     </script>
